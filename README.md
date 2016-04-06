@@ -13,9 +13,9 @@ Code Repo for Capstone students.  This repo is a collection of code commonly use
 License
 ----
 MIT
+        
 
-
-This code was created or collected by MERIT TEAM and friend. 
+This code was created or collected by MERIT TEAM and friends. 
 
 "It may be a MeSS but so was our project."
 
